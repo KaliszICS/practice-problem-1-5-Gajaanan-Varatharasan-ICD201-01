@@ -26,8 +26,8 @@ def q4():
 def q5():
   #Write Assignment code here
   number = input("Input an integer: ")
-  var=int(number)
-  print(f"Your number + 5 is {var1+5}")
+  var=int(number)+5
+  print(f"Your number + 5 is {var}")
 #q1():
 #q2():
 #q3():
