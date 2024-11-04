@@ -14,9 +14,8 @@ def q2():
   print(newcombined)
 def q3():
   #Write Assignment code here
-  number=input("Enter a number")
-  var=number
-  var=float(var)
+  number=input("Input a radius: ")
+  var=float(number)
   circle=3.14*(var*var)
   print(circle)
 def q4():
