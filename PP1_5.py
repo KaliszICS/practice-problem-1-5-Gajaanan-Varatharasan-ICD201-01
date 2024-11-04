@@ -18,10 +18,10 @@ def q3():
   print(circle)
 def q4():
   #Write Assignment code here
-  number=input("Input a number: ")
-  number1=float(number)
-  newnumber=number*12
-  newestnumber=int(newnumber)
+  number = input("Input a number: ")
+  number1 = float(number)
+  newnumber = number1*12
+  newestnumber = int(newnumber)
   print(newestnumber)
 def q5():
   #Write Assignment code here
