@@ -20,16 +20,15 @@ def q3():
   print(circle)
 def q4():
   #Write Assignment code here
-  number=input("Enter a number")
-  number=float(number)
+  number=input("Input a number: ")
+  number1=float(number)
   newnumber=number*12
-  newestnumber=round(newnumber)
+  newestnumber=int(newnumber)
   print(newestnumber)
 def q5():
   #Write Assignment code here
-  number=input("Enter a number")
-  vars=number
-  var=int(vars)
+  number = (input("Input an integer: ")
+  vars=int(number)
   print(f"Your number + 5 is {var+5}")
 #q1():
 #q2():
