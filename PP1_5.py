@@ -21,7 +21,7 @@ def q4():
   number=input("Input a number: ")
   number1=float(number)
   newnumber=number*12
-  newestnumber=(f"{int(newnumber)}")
+  newestnumber=int(newnumber)
   print(newestnumber)
 def q5():
   #Write Assignment code here
