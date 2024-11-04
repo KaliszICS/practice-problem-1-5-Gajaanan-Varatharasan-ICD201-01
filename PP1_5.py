@@ -1,13 +1,13 @@
 
 def q1():
   #Write Assignment code here
-  number=input("Enter a number")
-  var=number
-  print(var)
+  number=input("Input an integer: ")
+  var=int(number)
+  print(var+3)
 def q2():
   #Write Assignment code here
-  number=input("Enter a number")
-  var=number
+  number=input("Input a number: ")
+  var=number+4
   combinedvar=f"{var}{4}"
   combinedvar=float(combinedvar)
   newcombined=combinedvar+2
@@ -32,3 +32,8 @@ def q5():
   vars=number
   var=int(vars)
   print(f"Your number + 5 is {var+5}")
+#q1():
+#q2():
+#q3():
+#q4():
+#q5():
