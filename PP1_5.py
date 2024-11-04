@@ -27,9 +27,9 @@ def q4():
   print(newestnumber)
 def q5():
   #Write Assignment code here
-  number = (input("Input an integer: ")
-  vars=int(number)
-  print(f"Your number + 5 is {var+5}")
+  number = input("Input an integer: ")
+  var=int(number)
+  print(f"Your number + 5 is {var1+5}")
 #q1():
 #q2():
 #q3():
